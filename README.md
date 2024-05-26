@@ -1,5 +1,3 @@
-# Projeto - Prot-tipo-Alta-fidelidade-
-
 <h2>Protótipo de alta fidelidade - Only Shoes</h2> 
 
 ### Respositório destinado a entrega do projeto da **Formação de UX Design - DIO**
